@@ -1,2 +1,2 @@
-# rarity-sniper
-rarity sniper for solanart
+# nothing
+for nothing
